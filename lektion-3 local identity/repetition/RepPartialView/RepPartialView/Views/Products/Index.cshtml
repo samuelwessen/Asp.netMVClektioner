@@ -6,9 +6,6 @@
 
 @foreach (var item in Model)
 {
-    @await Html.PartialAsync("_ProductCarouselPartial", item)
-
-
 
     @foreach (var product in item.BestSellers)
     {

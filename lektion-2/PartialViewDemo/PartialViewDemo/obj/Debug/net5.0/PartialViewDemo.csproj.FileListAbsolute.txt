@@ -117,3 +117,4 @@ C:\Users\Samuel\OneDrive\Skrivbord\aspnetmvc\lektion-2\PartialViewDemo\PartialVi
 C:\Users\Samuel\OneDrive\Skrivbord\aspnetmvc\lektion-2\PartialViewDemo\PartialViewDemo\obj\Debug\net5.0\Razor\Views\Shared\_NavbarPartial.cshtml.g.cs
 C:\Users\Samuel\OneDrive\Skrivbord\aspnetmvc\lektion-2\PartialViewDemo\PartialViewDemo\obj\Debug\net5.0\Razor\Views\Shared\_ProductCardPartialView.cshtml.g.cs
 C:\Users\Samuel\OneDrive\Skrivbord\aspnetmvc\lektion-2\PartialViewDemo\PartialViewDemo\obj\Debug\net5.0\Razor\Views\Shared\_ProductListPartialView.cshtml.g.cs
+C:\Users\Samuel\OneDrive\Skrivbord\aspnetmvc\lektion-2\PartialViewDemo\PartialViewDemo\obj\Debug\net5.0\PartialViewDemo.csprojAssemblyReference.cache

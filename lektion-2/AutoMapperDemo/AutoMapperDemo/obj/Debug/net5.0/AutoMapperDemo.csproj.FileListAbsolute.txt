@@ -117,3 +117,5 @@ C:\Users\Samuel\OneDrive\Skrivbord\aspnetmvc\lektion-2\AutoMapperDemo\AutoMapper
 C:\Users\Samuel\OneDrive\Skrivbord\aspnetmvc\lektion-2\AutoMapperDemo\AutoMapperDemo\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
 C:\Users\Samuel\OneDrive\Skrivbord\aspnetmvc\lektion-2\AutoMapperDemo\AutoMapperDemo\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\Samuel\OneDrive\Skrivbord\aspnetmvc\lektion-2\AutoMapperDemo\AutoMapperDemo\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Samuel\OneDrive\Skrivbord\aspnetmvc\lektion-2\AutoMapperDemo\AutoMapperDemo\bin\Debug\net5.0\Repository.dll
+C:\Users\Samuel\OneDrive\Skrivbord\aspnetmvc\lektion-2\AutoMapperDemo\AutoMapperDemo\bin\Debug\net5.0\Repository.pdb

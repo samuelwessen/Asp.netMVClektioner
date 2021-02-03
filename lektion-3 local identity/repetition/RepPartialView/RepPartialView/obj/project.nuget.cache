@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RyTdV463quMy5S/J0FEzrZNfML+v7fzokMZn00RmGJwwlqrdyimkmN54XpsvlfRJKGcNVHOWyJY1GD5vwakmVQ==",
+  "dgSpecHash": "Eg7VusPpBj5xYkIu0tW3zMxYjYDFvew8bX6v3seZ54ZLXK0SlOplDPj1oIErs6DZ+HaDNcad8Xgsjb2tjwmE+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Samuel\\OneDrive\\Skrivbord\\aspnetmvc\\lektion-3\\repetition\\RepPartialView\\RepPartialView\\RepPartialView.csproj",
+  "projectFilePath": "C:\\Users\\Samuel\\OneDrive\\Skrivbord\\aspnetmvc\\lektion-3 local identity\\repetition\\RepPartialView\\RepPartialView\\RepPartialView.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Samuel\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Samuel\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

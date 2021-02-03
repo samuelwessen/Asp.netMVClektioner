@@ -16,7 +16,7 @@ namespace PartialViewDemo.Services
             {
                 new Product("Product 1", 1000),
                 new Product("Product 2", 1400),
-                new Product("Product 1", 999)
+                new Product("Product 3", 999)
             };
         }
 
