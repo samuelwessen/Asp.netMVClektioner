@@ -24,5 +24,11 @@ namespace IdentityRolesPoliciesClaims.Data
         [PersonalData]
         [Column(TypeName = "date")]
         public DateTime DateOfBirth { get; set; }
+
+
+        public string GetDisplayName()
+        {
+            return $"{FirstName} {LastName}";
+        }
     }
 }

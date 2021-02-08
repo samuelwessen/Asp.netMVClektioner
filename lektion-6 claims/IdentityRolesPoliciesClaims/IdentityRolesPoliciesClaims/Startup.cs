@@ -37,6 +37,21 @@ namespace IdentityRolesPoliciesClaims
                 .AddDefaultTokenProviders()
                 .AddDefaultUI();
             services.AddControllersWithViews();
+
+            services.AddScoped<IUserClaimsPrincipalFactory<ApplicationUser>, ApplicationUserClaims>();
+
+            services.AddAuthorization(options =>
+            {
+                options.AddPolicy("GlobalAdministrator", builder => builder.RequireRole("Admin"));
+                options.AddPolicy("UserAdministrator", builder => builder.RequireRole("Admin", "HR"));
+                options.AddPolicy("OrderAdministrator", builder => {
+                    builder.RequireClaim("Sales");
+                    builder.RequireRole("Admin");
+                });
+                
+            });
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -63,6 +78,14 @@ namespace IdentityRolesPoliciesClaims
 
             app.UseEndpoints(endpoints =>
             {
+            endpoints.MapControllerRoute(
+                name: "admin/users",
+                pattern: "admin/users",
+                defaults: new { controller = "Users", action = "Index" });
+
+
+
+
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");

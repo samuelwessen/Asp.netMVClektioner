@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samuel\\OneDrive\\Skrivbord\\aspnetmvc\\lektion-3\\WithBuiltInIdentity\\WithBuiltInIdentity\\WithBuiltInIdentity.csproj": {}
+    "C:\\Users\\Samuel\\OneDrive\\Skrivbord\\aspnetmvc\\lektion-3 local identity\\WithBuiltInIdentity\\WithBuiltInIdentity\\WithBuiltInIdentity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Samuel\\OneDrive\\Skrivbord\\aspnetmvc\\lektion-3\\WithBuiltInIdentity\\WithBuiltInIdentity\\WithBuiltInIdentity.csproj": {
+    "C:\\Users\\Samuel\\OneDrive\\Skrivbord\\aspnetmvc\\lektion-3 local identity\\WithBuiltInIdentity\\WithBuiltInIdentity\\WithBuiltInIdentity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samuel\\OneDrive\\Skrivbord\\aspnetmvc\\lektion-3\\WithBuiltInIdentity\\WithBuiltInIdentity\\WithBuiltInIdentity.csproj",
+        "projectUniqueName": "C:\\Users\\Samuel\\OneDrive\\Skrivbord\\aspnetmvc\\lektion-3 local identity\\WithBuiltInIdentity\\WithBuiltInIdentity\\WithBuiltInIdentity.csproj",
         "projectName": "WithBuiltInIdentity",
-        "projectPath": "C:\\Users\\Samuel\\OneDrive\\Skrivbord\\aspnetmvc\\lektion-3\\WithBuiltInIdentity\\WithBuiltInIdentity\\WithBuiltInIdentity.csproj",
+        "projectPath": "C:\\Users\\Samuel\\OneDrive\\Skrivbord\\aspnetmvc\\lektion-3 local identity\\WithBuiltInIdentity\\WithBuiltInIdentity\\WithBuiltInIdentity.csproj",
         "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samuel\\OneDrive\\Skrivbord\\aspnetmvc\\lektion-3\\WithBuiltInIdentity\\WithBuiltInIdentity\\obj\\",
+        "outputPath": "C:\\Users\\Samuel\\OneDrive\\Skrivbord\\aspnetmvc\\lektion-3 local identity\\WithBuiltInIdentity\\WithBuiltInIdentity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
